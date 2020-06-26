@@ -28,8 +28,9 @@ description: "SharePoint Migration Tool table of supported web parts for migrati
 >
 >At least 24 hours before you start migration, do the following:
 >1. From the SharePoint Admin Center, select Settings.
->2. Scroll down to "Custom Script".
->3. Select both of the following:</br>
+>2. If using the modern experience, click Go to the classic settings page.
+>3. Scroll down to "Custom Script".
+>4. Select both of the following:</br>
 >*Allow users to run custom script on personal sites*</br>
 >*Allow users to run customer script on self-service created sites*
 >
